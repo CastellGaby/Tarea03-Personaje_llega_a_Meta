@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1395673451 source:c:\users\gabz\documents\github\tarea03_gacd_personajemeta\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+
